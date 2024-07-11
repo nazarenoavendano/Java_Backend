@@ -16,11 +16,11 @@ El objetivo principal es gestionar usuarios en una base de datos MySQL alojada l
    - Crea una base de datos llamada `javaweb`.
 3. Abre el proyecto en tu IDE favorito (por ejemplo, Eclipse o IntelliJ IDEA).
 4. Configura el servidor Tomcat para ejecutar el proyecto.
-5. Asegúrate de que las dependencias (como el conector MySQL) estén en el classpath.
+5. Asegúrate de que las dependencias (como el conector MySQL) estén definidas.
 
 ## Uso
 
 1. Ejecuta la aplicación en el servidor Tomcat.
-2. Accede a la URL: `http://localhost:8080/javaweb`.
+2. Accede a la URL: `http://localhost:8080/javaweb`
 3. La aplicación debería permitirte registrar nuevos usuarios, actualizar información existente y eliminar usuarios.
 
